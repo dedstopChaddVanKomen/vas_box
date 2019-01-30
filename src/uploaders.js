@@ -10,10 +10,10 @@ import { render } from "react-dom";
 
 render(
   <ContentExplorer
-    token="WF8OgZj26CsIuMjerLXLWhRAJeoeJePL"
+    token="seyWWlXK0xZ11PQq4rpptGm0O7qibnOX"
     language="en-US"
     messages={messages}
-    logoUrl="https://uploads.codesandbox.io/uploads/user/d7c4d8a9-778f-4d91-b296-19937e3451f1/Hgr2-vaslogo.png"
+    logoUrl="https://rawcdn.githack.com/dedstopChaddVanKomen/vas_box/6d155a2ae4beeaba9347c2d567fcd9977cce4d0d/public/vaslogo.png"
   />,
   document.querySelector(".container")
 );
